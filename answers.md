@@ -48,7 +48,7 @@ Date:   Tue Sep 1 16:41:22 2026 -0400
 
     Initial commit
 
-9.
+9. 
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -58,3 +58,14 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+10. no my online changes were not refleted in my local copy
+
+11. To https://github.com/mjbosch15/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/mjbosch15/git-lab.git'
+
+12. yes my changes were made to my local copy
+
+13. .  ..  .git  .gitignore  README.md
+
